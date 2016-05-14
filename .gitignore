@@ -1,0 +1,10 @@
+
+*.xcscmblueprint
+
+*.xcuserstate
+
+*.xcscheme
+
+Activity Monitor.xcodeproj/xcuserdata/jensk.xcuserdatad/xcschemes/xcschememanagement.plist
+
+Monitoring Application.xcworkspace/xcuserdata/jensklein.xcuserdatad/UserInterfaceState.xcuserstate

@@ -1,0 +1,22 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "fc887f2f0b35e4fe2dc9f2c859c546d5"
+build_time: [510260193, 674771000]
+inputs:
+  "/Users/jensklein/Projects/bachelorarbeit/code/Monitoring Application/Activity Monitor/HomeViewController.swift": !dirty [510257801, 0]
+  "/Users/jensklein/Projects/bachelorarbeit/code/Monitoring Application/Activity Monitor/ConnectionPopupViewController.swift": !dirty [510257897, 0]
+  "/Users/jensklein/Projects/bachelorarbeit/code/Monitoring Application/Activity Monitor/SyncViewController.swift": !dirty [510257801, 0]
+  "/Users/jensklein/Projects/bachelorarbeit/code/Monitoring Application/Activity Monitor/ChartContainerUIView.swift": !dirty [510257801, 0]
+  "/Users/jensklein/Projects/bachelorarbeit/code/Monitoring Application/Activity Monitor/AppDelegate.swift": !dirty [509753459, 0]
+  "/Users/jensklein/Projects/bachelorarbeit/code/Monitoring Application/Activity Monitor/BTConnectionAttempt.swift": !dirty [510257801, 0]
+  "/Users/jensklein/Projects/bachelorarbeit/code/Monitoring Application/Activity Monitor/BTPeripheralAdapter.swift": !dirty [510257801, 0]
+  "/Users/jensklein/Projects/bachelorarbeit/code/Monitoring Application/Activity Monitor/UserInfoViewController.swift": !dirty [510257922, 0]
+  "/Users/jensklein/Projects/bachelorarbeit/code/Monitoring Application/Activity Monitor/FlowStateMachine.swift": !dirty [510257801, 0]
+  "/Users/jensklein/Projects/bachelorarbeit/code/Monitoring Application/Activity Monitor/ATDevice.swift": !dirty [510257801, 0]
+  "/Users/jensklein/Projects/bachelorarbeit/code/Monitoring Application/Activity Monitor/ATSensorValue.swift": !dirty [510257844, 0]
+  "/Users/jensklein/Projects/bachelorarbeit/code/Monitoring Application/Activity Monitor/SyncData.swift": !dirty [510257801, 0]
+  "/Users/jensklein/Projects/bachelorarbeit/code/Monitoring Application/Activity Monitor/BTManager.swift": !dirty [510257876, 0]
+  "/Users/jensklein/Projects/bachelorarbeit/code/Monitoring Application/Activity Monitor/UserInfo.swift": !dirty [510257801, 0]
+  "/Users/jensklein/Projects/bachelorarbeit/code/Monitoring Application/Activity Monitor/ATSensorValueStack.swift": !dirty [510257801, 0]
+  "/Users/jensklein/Projects/bachelorarbeit/code/Monitoring Application/Activity Monitor/ATInputStream.swift": !dirty [510257801, 0]
+  "/Users/jensklein/Projects/bachelorarbeit/code/Monitoring Application/Activity Monitor/PeripheralUITableViewCell.swift": !dirty [510257801, 0]
+  "/Users/jensklein/Projects/bachelorarbeit/code/Monitoring Application/Activity Monitor/ATConfiguration.swift": !dirty [510257801, 0]

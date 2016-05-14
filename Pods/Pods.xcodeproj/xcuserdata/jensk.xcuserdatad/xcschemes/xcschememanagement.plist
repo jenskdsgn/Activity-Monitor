@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Alamofire.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>Pods-Monitoring Application.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Pods-Monitoring ApplicationTests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Pods-Monitoring ApplicationUITests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>Pods.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>SwiftChart.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>SwiftState.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>SwiftyJSON.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0B61B38F1FD3498E0058A0C78DCA6595</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>123643160907E0AEF01027C8E8F20E8B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2822A4929E6B0C787531F587544F59D5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2AC630E79B841CA17E809AB21DF24D11</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>79C040AFDDCE1BCBF6D8B5EB0B85887F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A19697B579DA7271D94E46E469F1A1D9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C90068EE205C12581F6E65820E58F3FA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F9931CA22143606DA63C35EEEE913CBC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
